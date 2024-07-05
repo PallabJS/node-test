@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amars29.love2shopdev",
+      "sha256_cert_fingerprints": [
+        "DC:41:4C:20:32:F2:7F:D3:6F:51:5B:B5:17:42:89:00:02:9E:7F:4A:A5:D7:4E:48:50:12:CD:2D:03:70:FF:3C"
+      ]
+    }
+  }
+]
